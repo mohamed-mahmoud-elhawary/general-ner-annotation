@@ -148,13 +148,3 @@ general-ner-annotation/
 ├── guidelines/
 └── report/
 ```
-
-
-
-general-ner-annotation/
-├── README.md
-├── data/
-├── analysis/
-├── guidelines/
-└── report/
-
